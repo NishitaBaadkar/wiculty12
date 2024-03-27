@@ -1,4 +1,11 @@
-www.github series
+public class LOh=gin 
+{
+	public static void main(String args[])
+	{
+		int i;
 
-oioooo different status
-http:search instinct
+		for(i=1;i<=10;i++) {
+			System.out.println("Number:"+ i);
+		}
+	}
+}
